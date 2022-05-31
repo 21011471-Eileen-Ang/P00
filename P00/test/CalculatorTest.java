@@ -71,7 +71,6 @@ public class CalculatorTest {
 		
 		int expected = 3;
 		assertEquals(expected, actual);
-	
 	}
 
 }
